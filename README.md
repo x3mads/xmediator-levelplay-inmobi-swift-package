@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayInMobiAdapter` product instead of LevelPlay's `InMobiAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.9.0` of this package uses LevelPlay adapter `5.9.0`.
+`5.10.0` of this package uses LevelPlay adapter `5.10.0`.
 
 ## License
 
